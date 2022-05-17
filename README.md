@@ -10,9 +10,13 @@ browse our catalog of entree and side dish recipes, save them, and then assign t
 to access your party dashboard to see what they're supposed to make! 
 
 
-Currently deployed on: http://18.204.204.95/
+**Currently deployed on:** http://18.204.204.95/
+
+   **Video Walkthrough:** https://youtu.be/mxz3j2sdKx4
 
   **Language:** Java
+  
+
   
   **Database:** mySQL
   
