@@ -5,7 +5,7 @@ Tired of having 1 dish and 5 bags of chips?
 
 <b> Welcome to Dinner Party!</b>
 
-Where you can curate your potluck with recipe ideas for your indecisive particpants. Create a 'Dinner Party', add your participants,
+Where you can curate your potluck with recipe ideas for your indecisive participants. Create a 'Dinner Party', add your participants,
 browse our catalog of entree and side dish recipes, save them, and then assign them to your guest! Participants can use your unique code you picked
 to access your party dashboard to see what they're supposed to make! 
 
